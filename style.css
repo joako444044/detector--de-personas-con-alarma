@@ -1,0 +1,19 @@
+.heading
+{
+font-size: 35px;
+color: black;
+width: 100%;
+margin-top: 0px;
+}
+.instr
+{
+font-size: 10px;
+color: dimgrey;
+}
+body{
+    background-image: url("94e2b32f526139c6e1eb40a95073bcf8--baby-art-babyshower.jpg");
+    background-size: cover;
+}
+canvas{
+    background-color: aqua;
+}

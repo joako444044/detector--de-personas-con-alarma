@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../c-131 identificacion de objetos"
+		},
+		{
+			"path": "../c-126AI-DJ-codigo-fuente"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "c-134 proyecto"
+	}
+}
